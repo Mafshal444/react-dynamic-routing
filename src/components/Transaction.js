@@ -6,6 +6,7 @@ const Transaction = () => {
 
 	return (
 		<>
+		
 			<h2>Transaction Id: { transactionId }</h2>
 			<Link to={-1}>Back to Transactions</Link>
 		</>
